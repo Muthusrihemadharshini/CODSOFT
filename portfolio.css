@@ -1,0 +1,152 @@
+body{
+    background-color: white;
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+header{
+    background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 60px;
+}
+
+
+.skills{
+    background-color:#ffccff;
+    font-weight: 200;
+    font-style: italic;
+    border-radius: 50px;
+    text-align: center;
+    padding: 5px 5px;
+    width: 800px;
+    height: 300px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 200px;
+    word-spacing: 5px ;
+}
+.skills:hover{
+    background-color: hotpink;
+    border-radius: 50px;
+    box-shadow: darkgray;
+}
+.project{
+    background-color: #ffccff;
+    font-weight: 200;
+    font-style: italic;
+    font-size:small;
+    border-radius: 50px;
+    text-align: center;
+    padding: 50px 50px;
+    width: 800px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 600px;
+    margin-top: 20px;
+    box-shadow: black;
+}
+.project:hover{
+    background-color:hotpink;
+    border-radius: 50px;
+    box-shadow: darkgray;
+}
+.project1{
+    background-color: #ffccff;
+    font-weight: 200;
+    font-style: italic;
+    font-size:medium;
+    border-radius: 50px;
+    text-align: center;
+    padding: 50px 50px;
+    width: 800px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 600px;
+    margin-top: 20px;
+    box-shadow: black;
+}
+.project1:hover{
+    background-color:hotpink;
+    border-radius: 50px;
+    box-shadow: darkgray;
+}
+
+
+.image{
+    margin-left: 1000px;
+    width: 10px;
+    height: 100px;
+
+}
+.image1{
+    margin-right: 1000px;
+    width: 10px;
+    height: 500px;
+    margin-top: 100px;
+    margin-bottom: 300px;
+   
+    
+}
+
+.RESUME{
+    margin-top: -100px;
+    margin-bottom: 100px;
+    margin-left: 1100px;
+    margin-right: 100px;
+    color: white;
+}
+button{
+    background-color:lightblue;
+    padding: 50px 100px ;
+    border-radius: 25px;
+    color:white;
+    margin-top: -1500px;
+    font-size: large;
+    
+}
+button:hover{
+    background-color: crimson;
+    box-shadow: blueviolet;
+
+    
+
+}
+.technical{
+    background-color: lightpink;
+    font-weight: 200;
+    font-style: italic;
+    border-radius: 50px;
+    text-align: center;
+    padding: 50px 50px;
+    width: 800px;
+    height: 200px;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: -100px;
+
+
+}
+.technical:hover{
+    background-color:hotpink;
+    border-radius: 50px;
+    box-shadow: darkgray;
+}
+
+
+footer{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+.about{
+    font-size: large;
+    color: black;
+    
+}
+.contact{
+    font-size:x-large;
+}
